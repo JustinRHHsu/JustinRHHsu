@@ -15,7 +15,7 @@ Both live, early stage, and adding customers across industries.
 
 I help SMEs and traditional businesses become AI-native companies, staffed by **AI-agent digital employees** working alongside people. Two teams are already running: an **AI-agent sales team** for a timber and building-materials trader, and an **AI-agent operations team** for a medical-device distributor.
 
-### Building
+### What's next
 
 - **Agentic Company** — AI systems that run a company's operations end to end and keep learning on their own, built on loop engineering and data flywheels.
 - **On-premise models** — private AI that runs on a company's own hardware, so its data never leaves the building.
