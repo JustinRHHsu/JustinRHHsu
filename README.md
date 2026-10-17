@@ -8,8 +8,8 @@ Founder of [A PLUS ME (A+ME)](https://github.com/JustinRHHsu/my-bio). I help Tai
 
 Both live, early stage, and adding customers across industries.
 
-- **[SayType](https://saytype.aplusme.app/)** — A better way to talk to your AI agents than typing. Say what you're thinking in any app on Mac or Windows, and clear, organized text lands at your cursor in about a second. Mandarin and English today, with more languages on the way.
-- **[AI Top Sales](https://ai-top-sales.aplusme.app/en)** — A 24×7 AI employee that answers customers, closes orders and books appointments across LINE, Facebook, Instagram and WhatsApp.
+- **[SayType](https://saytype.aplusme.app/)**, Your Voice Layer for AI Agents — A better way to talk to your AI agents than typing. Say what you're thinking in any app on Mac or Windows, and clear, organized text lands at your cursor in about a second. Mandarin and English today, with more languages on the way.
+- **[AI Top Sales](https://ai-top-sales.aplusme.app/en)**, Your 24x7 AI Sales Agent Team — An AI employee that answers customers, closes orders and books appointments across LINE, Facebook, Instagram and WhatsApp.
 
 ### AI transformation consulting
 
